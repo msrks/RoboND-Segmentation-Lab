@@ -1,4 +1,7 @@
 .python-version
 .ipynb_checkpoints
 code/utils/__pycache__/
-data/
+*.zip
+data/train/
+data/validation/
+data/runs/
